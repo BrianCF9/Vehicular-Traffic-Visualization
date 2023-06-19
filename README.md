@@ -1,4 +1,4 @@
-# RDxVisualizer_Backend_API
+
 
 Api para visualización de datos de tráfico vehicular, con distintas capas de visualización y comunicación con motor gráfico Unity 3D
 
